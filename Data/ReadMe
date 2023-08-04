@@ -1,2 +1,4 @@
 This data is processed data from http://apdrc.soest.hawaii.edu/projects/monsoon/ which has been interpolated,
 along with the combined value of ISMI, WNPMI, and AUSMI as the Asia-Australia monsoon interaction.
+
+Data for rainfall is taken from NASA Power which has been verified with in-situ data from the Indonesian Meteorology, Climatology and Geophysics Agency (BMKG).
